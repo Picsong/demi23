@@ -1,0 +1,24 @@
+{
+  "name": "tag",
+  "version": "0.0.0",
+  "description": "a tag",
+  "keywords": [
+    "p-tag"
+  ],
+  "author": "picsong <312465087@qq.com>",
+  "homepage": "https://github.com/Picsong/demi23",
+  "license": "MIT",
+  "main": "dist/tag.cjs.js",
+  "module": "dist/tag.esm.js",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "http://npm.abczs.cn/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Picsong/demi23"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
